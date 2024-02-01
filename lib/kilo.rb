@@ -1,1 +1,1 @@
-require_relative './kilo/i'
+require_relative './kilo/cli'
